@@ -15,15 +15,68 @@ This is a complete imgae editing app. we can get image internal and as well as c
 ✔️ redo all features <br />
 
 
-## GIF
+## Capture imgage using Camera or Pick image from Gallary - GIF
 
 <p align="center">
   <img 
     width=40%
     height=40%
-    src="https://user-images.githubusercontent.com/101565812/205629058-fce5553f-a4d5-42a6-8382-15042c2a9452.gif">
+    src="https://user-images.githubusercontent.com/101565812/206706312-c9104983-b8f2-4574-ac44-8ed083ea3a90.gif">
 </p>
 
+## Draw line handle line width and color - GIF
+
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/206706615-427af721-d153-44ef-a9ca-f0291ac76389.gif">
+</p>
+
+## Undo and Redo - GIF
+
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/206706786-b65b6e98-4733-4225-9873-49fe3fffbddc.gif">
+</p>
+
+## write text on image and hadle its color and size - GIF
+
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/206706973-ce1a8b91-250b-4786-a59d-2d2be4680dad.gif">
+</p>
+
+## razor - GIF
+
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/206707168-9df776f1-7181-4d49-94e5-b4fa5869bf8d.gif">
+</p>
+
+## emoji - GIF
+
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/206707315-16b1951c-95e8-4f71-a29b-cfae11563a41.gif">
+</p>
+
+## Number and save image into the internal storage - GIF
+
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/206707447-f588c82f-80b3-499c-b9e7-833ede659eaf.gif">
+</p>
 
 
 ## MIT License
